@@ -7,3 +7,4 @@ numpy==1.14.0
 scipy==1.0.0
 tqdm==4.19.6
 opencv-contrib-python==3.4.0.12
+python_speech_features
